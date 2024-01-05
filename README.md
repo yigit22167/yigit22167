@@ -2,7 +2,7 @@
 
 <br>I am a 3rd year Computer Engineering student in Dokuz Eylul University, Izmir/Turkey.
 
-<br>I'm working on improving myself in Web Development
+I am a CompSci student who is eager to learn any technology in the industry.
 
 - 👨‍💻 All of my projects are available at my GitHub profile
 
