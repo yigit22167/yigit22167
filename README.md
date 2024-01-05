@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Yigit</h1>
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ5cnl3N2sxZWFpd3ZhOW00bDVmOWI2YWlzMzJmNHJ6YzlycjV6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ5cnl3N2sxZWFpd3ZhOW00bDVmOWI2YWlzMzJmNHJ6YzlycjV6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="400">
+
 <br>I am a 3rd year Computer Engineering student in Dokuz Eylul University, Izmir/Turkey.
 
 <br>I'm working on improving myself in Web Development
