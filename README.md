@@ -8,8 +8,6 @@
 
 - 📫 How to reach me -> **yigit22167@gmail.com** <!-- or **[https://www.linkedin.com/in/yigitkilinccioglu/](https://www.linkedin.com/in/yigitkilinccioglu/)** -->
 
-- Know about my experiences -> [0](0)
-
 
 
 <p align="left">
