@@ -4,8 +4,6 @@
 
 <br>I'm working on improving myself in Web Development
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at my GitHub profile
 
 - 📫 How to reach me -> **yigit22167@gmail.com** <!-- or **[https://www.linkedin.com/in/yigitkilinccioglu/](https://www.linkedin.com/in/yigitkilinccioglu/)** -->
