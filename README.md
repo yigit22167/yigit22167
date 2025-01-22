@@ -1,12 +1,12 @@
 <h1 align="center">Hello! 👋, I'm Yigit</h1>
 
-<br>I am a 3rd year Computer Engineering student in Dokuz Eylul University, Izmir/Turkey.
+<br>I am a 4th year Computer Engineering student at Dokuz Eylul University, Izmir/Turkey.
 
-I am a CompSci student who is eager to learn any technology in the industry.
+I am a student who is eager to learn any technology in the industry.
 
 - 👨‍💻 All of my projects are available at my GitHub profile
 
-- 📫 How to reach me -> **yigit22167@gmail.com** <!-- or **[https://www.linkedin.com/in/yigitkilinccioglu/](https://www.linkedin.com/in/yigitkilinccioglu/)** -->
+- 📫 How to reach me -> **mahmutyigitkilinccioglu@gmail.com** <!-- or **[https://www.linkedin.com/in/yigitkilinccioglu/](https://www.linkedin.com/in/yigitkilinccioglu/)** -->
 
 
 
